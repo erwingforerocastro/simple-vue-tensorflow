@@ -1,12 +1,18 @@
+<div align="center">
+  <a target="_blank" href="https://vuejs.org/">
+    <img src="logo.png" alt="Aplication with vue.js">
+  </a>
+</div>
+
+<div align="center">
+
+# Aplication simple of Vue.js with TensorFlow.js
+
+**Aplicacion simple de Vue.js con la integración de TensorFlow.js**
+
+Erwing FC @ 2020
+</div>
+
 # STATIC
 
-This directory contains your static files.
-Each file inside this directory is mapped to /.
-
-Example: /static/robots.txt is mapped as /robots.txt.
-
-More information about the usage of this directory in the documentation:
-https://nuxtjs.org/guide/assets#static
-
-**This directory is not required, you can delete it if you don't want to use it.**
-
+Example: https://erwingforerocastro.github.io/simple-vue-tensorflow/
