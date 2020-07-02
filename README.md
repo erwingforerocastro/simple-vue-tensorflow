@@ -15,4 +15,4 @@ Erwing FC @ 2020
 
 # STATIC
 
-Example: https://erwingforerocastro.github.io/simple-vue-tensorflow/
+Live Demo: https://erwingforerocastro.github.io/simple-vue-tensorflow/
